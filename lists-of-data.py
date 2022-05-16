@@ -58,3 +58,10 @@ richarddatadict["colour"] = "blue" # 'append' to a dictionary
 print(richarddatadict)
 richarddatadict["happinessgrade"] = "X"
 print(richarddatadict)
+
+
+inputvar1 = input("Type either cheese or wine: ")
+foodsdict = {"cheese": ["cheddar", "mozerella", "brie", "lancashire"], "wine": ["shiraz", "Merlot", "rose"]}
+list1 = foodsdict[inputvar1]
+
+print("You picked " + inputvar1 + " which contains:" + ", ".join(list1))
