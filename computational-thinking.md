@@ -23,7 +23,7 @@ What coding tools do I know that answer the problem?
     `def func(var1,var2,var3):`
 - Find the maximum, 
     - This sounds like a test!
-    - Maye use an if statement
+    - Maybe use an if statement
     ` if var1 > var2:`
 
 Problem! if statements can only test two objects at a time
