@@ -12,3 +12,8 @@ def add1(userinputvar):
 
 def sorted():
     return "Leon is sorted, nice one!"
+
+def unknownlenght(*varname):
+    # the varname creates a tuple
+    countlist = len(varname)
+    return (varname, countlist)
