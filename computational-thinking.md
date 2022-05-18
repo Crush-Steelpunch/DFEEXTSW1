@@ -27,9 +27,9 @@ What coding tools do I know that answer the problem?
     ` if var1 > var2:`
 
 Problem! if statements can only test two objects at a time
-    - Maybe iterate? for loop?
-    - Maybe just run a series of tests?
-         - nested if statment?
+- Maybe iterate? for loop?
+- Maybe just run a series of tests?
+   - nested if statment?
 
 
 # Algorythmic Thinking
