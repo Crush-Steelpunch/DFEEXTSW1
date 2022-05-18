@@ -38,8 +38,8 @@ How do I take these small chunks and make a program?
 - Use Flowcharts
 - Use Psudocode
 
-```
 example psudocode
+```
 BEGIN
 INPUT var1 var2 var3
 TEST is VAR1 > var2
