@@ -32,7 +32,7 @@ Problem! if statements can only test two objects at a time
    - nested if statment?
 
 
-# Algorythmic Thinking
+# Algorithmic Thinking
 How do I take these small chunks and make a program?
 
 - Use Flowcharts
