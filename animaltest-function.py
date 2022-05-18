@@ -1,14 +1,14 @@
 def animaltesting(variable):
     if variable == "cat":
-        return True
+        return False 
     else:
-        return False
+        return True
 
 
 
 
-returnval = False
-while not returnval:
+returnval = True
+while returnval:
     typedinvar = input("Type in an animal: ")
     returnval = animaltesting(typedinvar)
 
