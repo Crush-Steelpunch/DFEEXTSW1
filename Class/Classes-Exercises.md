@@ -18,7 +18,7 @@ Dice Class
 - Write a class called Dice
 - When initialised the object will set how many faces the die has
 - Create objects for 6, 20, 2 and 4 sided die.
-- Roll a charactor sheet for a Swashbuckler Rogue called 'Earl Grey' using the Dungeons and Dragons 5th edition ruleset.
+- Roll a charactor sheet for a Swashbuckler Rogue called 'Earl Grey' using the [Dungeons and Dragons 5th edition ruleset](https://www.mysticwaffle.com/dnd-5e-character-guide).
 
 ## Lettercheck
 
