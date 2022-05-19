@@ -1,6 +1,6 @@
-class letterlist:
+class Letterlist:
 
-    def __init__(self,letterset):
+    def __init__(self,letterset="AEIOU"):
         self.listofletter = letterset
 
     def lettertest(self, invar):
@@ -9,13 +9,17 @@ class letterlist:
         else:
             return False
 
-voweltest = letterlist("AEIOU")
-
-romannumeraltest = letterlist("CDILMVX")
-
-rotationsymtest = letterlist("HINOSXZ")
 
 
+
+voweltest = Letterlist()
+
+romannumeraltest = Letterlist("CDILMVX")
+
+rotationsymtest = Letterlist("HINOSXZ")
+
+print(voweltest.listofletter)                #this is the same
+print(getattr(voweltest, "listofletter"))      # as doing this
 print(rotationsymtest.lettertest("h"))
 print(voweltest.lettertest("a"))
 print(romannumeraltest.lettertest("c"))
