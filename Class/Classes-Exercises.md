@@ -27,7 +27,7 @@ Dice Class
 - create a method that takes a single letter and checks if it is a vowel
 - return true or false
 - rewrite the class so you can create different objects for finding if letters are members of different letter groups
-- [http://rinkworks.com/words/lettergroups.shtml]
+- <http://rinkworks.com/words/lettergroups.shtml>
 
 ### Polygon
 
