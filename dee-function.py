@@ -1,3 +1,5 @@
+import pdb
+pdb.set_trace()
 # Example written by Dee
 
 def grade_calc(hw_score, asment_score, exam_score):

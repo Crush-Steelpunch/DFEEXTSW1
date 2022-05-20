@@ -9,8 +9,10 @@
 # and print the values you get from 
 # the dice.
 
-
+#
 import dice
+import pdb
+pdb.set_trace()
 
 print("Die 1: " + str(dice.dieroll()))
 print("Die 2: " + str(dice.dieroll()))
